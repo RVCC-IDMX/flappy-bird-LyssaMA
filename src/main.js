@@ -1,4 +1,4 @@
-import kaboom from "kaboom";
+/*import kaboom from "kaboom";
 
 //initialize context
 
@@ -127,12 +127,12 @@ scene("gameover", (score, screenshot) => {
 
 //Start the game
 go("game");
+*/
 
 
 
 
-
-/*import kaboom from "kaboom";
+import kaboom from "kaboom";
 
 //initialize context
 
@@ -255,4 +255,3 @@ scene("gameover", (score, screenshot) => {
 
 //Start the game
 go("game");
-*/
